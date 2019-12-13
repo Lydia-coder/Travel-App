@@ -1,3 +1,10 @@
+TravelApp
+
+this is a mock app, where users can see reviews about a destination,discription and a few images.
+None of the data is fetched, it's all hardcoded.
+
+Initialize app:
+
 npm install -g expo
 expo init <project name>
 choose blank template

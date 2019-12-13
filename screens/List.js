@@ -289,7 +289,7 @@ export default class List extends React.Component {
   }
 
   renderDestination(item) {
-    //a separate function called renderDestination(item) that will return the template for each destination.
+    //a function called renderDestination(item) that will return the template for each destination.
     //item parameter will include each data object item from the destinations array that we defined above.
     //Then, we have used the item data in order to implement a simple template. The template includes an ImageBackground
     //component that wraps a View component. This ImageBackground component is used to set the background image on the app screen.
@@ -520,7 +520,8 @@ export default class List extends React.Component {
     //the FontAwesome component with star icons. The FontAwesome component is configured with key and color props. The key prop to identify each item
     //in array uniquely. And, the color is based on the activeStar constant.
     //Now, we need to call this renderRatings() function in the renderRecommendation()
-    const stars = new Array(5).fill(0);
+    const stars = new Array(5).fill(0); //The fill() method fills the specified elements in an array with a static value.You can specify the position 
+    //of where to start and end the filling. If not specified, all elements will be filled.
     return stars.map((value, index) => {
       const activeStar = index < rating;
       return (
