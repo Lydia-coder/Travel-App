@@ -30,3 +30,6 @@ Then, pass the Travel navigator into the createAppContainer function as a parame
 ##Separating Different UI sections for List screen
 divide the List screen into three different UI sections. The three different sections are going to be a Header section, destinations section and 
 recommended section.
+
+## making styling file
+This will make things easier to assign styles to different components

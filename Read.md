@@ -1,14 +1,6 @@
 
-
-
-## making styling file
-This will make things easier to assign styles to different components
-
-
-
-
 #  Travel App 
-##  Check out the deployed version here! 
+##  Check out the demo version here! 
 
 ![DEMO Travel App](https://github.com/Lydia-coder/portfolio-project/blob/master/travelApp.gif)
 ## What this project is about
