@@ -41,7 +41,7 @@ This will make things easier to assign styles to different components
 #  Travel App 
 ##  Check out the deployed version here! 
 
-![DEMO Resume page](https://github.com/Lydia-coder/lydia-cv/blob/master/src/CVDemo.gif)
+![DEMO Travel App](https://github.com/Lydia-coder/portfolio-project/blob/master/travelApp.gif)
 ## What this project is about
 
 This is a travel app, where a user can read about a destination, vieuw images of the destination and read reviews and ratings. It was my frist time using react native so this was a bit of a introduction project for me. Most of the styling is inline styling with some libraries, please checkout: **[Goals for this project](#goals-for-this-project)**
